@@ -6,6 +6,11 @@
 ## 特徴
 IScript BrowserExrension とは、IScriptをChrome/Edge/Firefoxで動作させるためのインタプリタです。
 
+## 特有の仕様
+このブランチは、Edge向け(e)です。
+- Manifest v3
+- IScriptv1.0に準拠
+
 ## IScriptとは
 IScript はシンプルで直感的な、ブラウザ向けのスクリプト言語です。<br>
 学習コストが低く、簡潔な文法であり、軽い用途での使用を想定しています。
