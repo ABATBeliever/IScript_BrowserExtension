@@ -5,6 +5,7 @@
 ![Version](https://img.shields.io/badge/version(Firefox)-1.0.0f-red.svg)
 ## 特徴
 IScript BrowserExrension とは、IScriptをChrome/Edge/Firefoxで動作させるためのインタプリタです。
+それぞれ、[Chrome版](https://github.com/ABATBeliever/IScript_BrowserExtension/tree/Chrome),[Edge版](https://github.com/ABATBeliever/IScript_BrowserExtension/tree/Edge),[Firefox版](https://github.com/ABATBeliever/IScript_BrowserExtension/tree/Firefox)があります。
 
 ## IScriptとは
 IScript はシンプルで直感的な、ブラウザ向けのスクリプト言語です。<br>
