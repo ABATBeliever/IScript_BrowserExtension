@@ -1,10 +1,13 @@
-# IScript BrowserExtension
+# IScript BrowserExtension (Firefox)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Version](https://img.shields.io/badge/version(Chrome)-1.0.0c-yellow.svg)
-![Version](https://img.shields.io/badge/version(Edge)-1.0.0e-blue.svg)
 ![Version](https://img.shields.io/badge/version(Firefox)-1.0.0f-red.svg)
 ## 特徴
 IScript BrowserExrension とは、IScriptをChrome/Edge/Firefoxで動作させるためのインタプリタです。
+
+## 特有の仕様
+このブランチは、Firefox向け(f)です。
+- Manifest v2
+- IScriptv1.0に準拠
 
 ## IScriptとは
 IScript はシンプルで直感的な、ブラウザ向けのスクリプト言語です。<br>
