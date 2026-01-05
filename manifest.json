@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+  "name": "IScript インタプリタ for Firefox",
+  "version": "1.0.0",
+  "icons": {
+    "16": "./extension16.png",
+    "128": "./extension128.png"
+  },
+  "description": "IScript はシンプルで直感的な、ブラウザ向けのスクリプト言語です。このインタプリタは、IScriptのFirefox系ブラウザ向けの、公式リファレンス実装です。",
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "<all_urls>"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+  "browser_action": {
+    "default_title": "iscript"
+  },
+  "applications": {
+  "gecko": {
+    "id": "iscript-firefox@abatbeliever.net"
+  }
+}
+}
