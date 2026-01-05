@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "IScript インタプリタ for Edge",
+  "version": "1.0.0",
+  "icons": {
+    "16": "./extension16.png",
+    "128": "./extension128.png"
+  },
+  "description": "IScript はシンプルで直感的な、ブラウザ向けのスクリプト言語です。このインタプリタは、IScriptのEdgeブラウザ向けの、公式リファレンス実装です。",
+  "action": {
+    "default_popup": "ui.html"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
